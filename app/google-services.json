@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528331502191",
+    "project_id": "firebits-mini-project",
+    "storage_bucket": "firebits-mini-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528331502191:android:33a1046713609b44fd539a",
+        "android_client_info": {
+          "package_name": "mad.project.mini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528331502191-5c95en1l9kdasqaq6qg3o0gqqc4hropj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rzw7UtieOf6YNa1Ur2Is19KE-su6TYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528331502191-5c95en1l9kdasqaq6qg3o0gqqc4hropj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
